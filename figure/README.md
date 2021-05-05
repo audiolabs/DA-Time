@@ -1,4 +1,4 @@
 ## Figures
 
 
-This folder contains different data plots and final output plots for different data settings.
+This folder contains different data plot and final output plot for different data settings.
