@@ -1,0 +1,48 @@
+[
+  {
+    "text": "when is our tomorrow's meeting?",
+    "TIMEX3": [
+      {
+        "expression": "tomorrow",
+        "tid": "t1",
+        "type": "DATE",
+        "unit": "DAY",
+        "value": "2020-07-21",
+        "beginPoint": "",
+        "endPoint": ""
+      }
+    ]
+  },
+  {
+    "text": "Make a schedule from Friday to Tuesday __EMPTY__",
+    "TIMEX3": [
+      {
+        "expression": "Friday",
+        "tid": "t1",
+        "type": "DATE",
+        "unit": "DAY",
+        "value": "2020-07-24",
+        "beginPoint": "",
+        "endPoint": ""
+      },
+      {
+        "expression": "Tuesday",
+        "tid": "t2",
+        "type": "DATE",
+        "unit": "DAY",
+        "value": "2020-07-28",
+        "beginPoint": "",
+        "endPoint": ""
+      },
+      {
+        "expression": "",
+        "tid": "t3",
+        "type": "DURATION",
+        "unit": "",
+        "value": "P4D",
+        "beginPoint": "t1",
+        "endPoint": "t2"
+      }
+    ]
+  }
+]
