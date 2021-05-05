@@ -1,0 +1,500 @@
+it might turn into the worst in a decade .                    
+a B-DURATION B-DURATION
+decade I-DURATION I-DURATION
+---------------
+The season started about a month earlier than usual ,  .                  
+a B-DURATION B-DURATION
+month I-DURATION I-DURATION
+---------------
+it 's possible there will be more , said the CDC 's Dr. Michael Jhung said Friday .            
+Friday B-DATE B-DATE
+---------------
+Six of the pediatric deaths were reported in the last week .                  
+the B-DATE B-DATE
+last I-DATE I-DATE
+week I-DATE I-DATE
+---------------
+One exception was the swine flu pandemic of 2009 - 2010 ,  348 children died .             
+2009 B-DATE B-DATE
+- O I-DATE
+2010 B-DATE I-DATE
+---------------
+all children ages 6 months and older be vaccinated against flu each season .                
+each B-SET B-DATE
+season I-SET I-DATE
+---------------
+This year 's vaccine was considered effective in children ,  it did n't work very well in older people .         
+This B-DATE B-DATE
+year I-DATE I-DATE
+---------------
+In that group , 177 out of every 100,000 were hospitalized with flu-related illness in the past several months .          
+the B-DURATION B-DURATION
+past I-DURATION I-DURATION
+several I-DURATION I-DURATION
+months I-DURATION I-DURATION
+---------------
+That 's more than 2 1/2 times higher than any other recent season .                
+any O B-DATE
+other O I-DATE
+recent B-SET I-DATE
+season I-SET I-DATE
+---------------
+This flu season started in early December , a month earlier than usual , and peaked by the end of year .        
+early B-DATE B-DATE
+December I-DATE I-DATE
+a B-DURATION O
+month I-DURATION O
+the B-DATE B-DATE
+end I-DATE I-DATE
+of I-DATE I-DATE
+year I-DATE I-DATE
+---------------
+premiums for many individuals and small businesses could increase sharply next year because of the health-care overhaul law , with the nation 's biggest firm projecting that rates could more
+next B-DATE B-DATE
+year I-DATE I-DATE
+---------------
+major provisions of the law kick in next year - a subject of rigorous debate .              
+next B-DATE B-DATE
+year I-DATE I-DATE
+---------------
+pointing to a 2009 analysis by the Congressional Budget Office that says average individual premiums , on an apples-to-apples basis , would be lower .     
+2009 B-DATE B-DATE
+---------------
+Carriers will be filing proposed prices with regulators over the next few months .                
+the B-DURATION B-DURATION
+next I-DURATION I-DURATION
+few I-DURATION I-DURATION
+months I-DURATION I-DURATION
+---------------
+Starting next year , the law will block insurers from refusing to sell coverage or setting premiums based on people 's health histories , and will reduce their ability to
+next B-DATE B-DATE
+year I-DATE I-DATE
+---------------
+he is 40 , eight years from now .                     
+eight B-DURATION B-DURATION
+years I-DURATION I-DURATION
+now B-DATE B-DATE
+---------------
+in 2011 removed as much of Leon 's brain tumor as possible .                 
+2011 B-DATE B-DATE
+---------------
+technology will be available in five years .                      
+five B-DATE B-DURATION
+years I-DATE I-DURATION
+---------------
+early this year was forced to step down as a juvenile probation officer in Travis County , Texas , a position he had held for almost seven years . 
+early B-DATE B-DATE
+this I-DATE I-DATE
+year I-DATE I-DATE
+almost B-DURATION O
+seven I-DURATION B-DURATION
+years I-DURATION I-DURATION
+---------------
+Two years after his brain-cancer diagnosis , he recently ran a sub-five-minute mile for the first time since high school .         
+Two B-DURATION B-DURATION
+years I-DURATION I-DURATION
+---------------
+Leon did this month in Beaumont , Texas .                     
+this B-DATE B-DATE
+month I-DATE I-DATE
+---------------
+finishing in 3:07:35 .                          
+3:07:35 B-DURATION B-DATE
+---------------
+he underwent brain surgery in early 2011 .                      
+early B-DATE B-DATE
+2011 I-DATE I-DATE
+---------------
+That was one second slower than his personal record in the 26.2-mile event , set days   .           
+days B-DURATION I-DURATION
+---------------
+The FAA on Friday announced it will close 149 regional airport control towers because of forced spending cuts .           
+Friday B-DATE B-DATE
+---------------
+closure of the 149 control towers will begin on April 7 .                  
+April B-DATE B-DATE
+7 I-DATE I-DATE
+---------------
+A four-week , phased  , the FAA said .                    
+four-week B-DURATION B-DURATION
+---------------
+Before Friday 's announcement , it said it would consider keeping a tower open  the airport convinces the agency it is in the `` national interest '' to do
+Friday B-DATE B-DATE
+---------------
+By congressional mandate , the FAA must cut nearly $ 600 million from its nearly $ 48 billion budget this fiscal year .       
+this B-DATE B-DATE
+fiscal I-DATE I-DATE
+year I-DATE I-DATE
+---------------
+China 's state leadership transition has taken place this month against an ominous backdrop .               
+this B-DATE B-DATE
+month I-DATE I-DATE
+---------------
+she checked for smog every morning after opening her curtains and kept at home face masks for her daughter and herself .        
+every B-SET B-TIME
+morning I-SET I-TIME
+---------------
+Last month , after deadly air pollution hit record levels in northern China , officials led byWen Jiabao , then the prime minister , put forward strict new fuel standards
+Last B-DATE B-DATE
+month I-DATE I-DATE
+---------------
+byWen Jiabao , then the prime minister , put forward strict new fuel standards that the oil companies had blocked for years .       
+years B-DURATION B-DURATION
+---------------
+oil officials resisted a similar government order for higher-grade fuel four years ago .                
+four B-DATE B-DATE
+years I-DATE I-DATE
+ago I-DATE I-DATE
+---------------
+In 2011 , during a round of discussions over stricter emissions standards , the China Electricity Council ,  represents the companies , pushed back hard against the proposals ,
+2011 B-DATE B-DATE
+---------------
+China 's current economic policies would result in an enormous surge in coal consumption and automobile sales over the next decade .        
+the B-DURATION B-DATE
+next I-DURATION I-DATE
+decade I-DURATION I-DATE
+---------------
+On Feb. 28 , Deutsche Bank released an analysts ' note saying   .               
+Feb. B-DATE B-DATE
+28 I-DATE I-DATE
+---------------
+the number of passenger cars in China was on track to hit 400 million by 2030 , up from 90 million now .       
+2030 B-DATE B-DATE
+now B-DATE B-DATE
+---------------
+Northern Ireland 's World Cup qualifier with Russia has been postponed until 15:00 GMT Saturday due to heavy snow .          
+15:00 B-TIME B-DATE
+GMT I-TIME I-DATE
+Saturday I-TIME I-DATE
+---------------
+This comes just over a week before the start of British Summer Time .                
+a B-DURATION B-DURATION
+week I-DURATION I-DURATION
+Summer O B-DATE
+Time O I-DATE
+---------------
+the snow would cause travel disruption across northern parts of the UK on Friday , with some 20cm-40cm ( 8in-16in ) falling in places .     
+Friday B-DATE B-DATE
+---------------
+Our digital age is all about bits , those precise ones and zeros  are the stuff of modern computer code .        
+digital B-DATE O
+---------------
+Now , Lockheed Martin   is confident enough in the technology to upgrade it to commercial scale , becoming the first company to use quantum computing as part of
+Now B-DATE B-DATE
+---------------
+bought an early version of such a computer from the Canadian company D-Wave Systems two years ago .            
+two B-DATE B-DATE
+years I-DATE I-DATE
+ago I-DATE I-DATE
+---------------
+can be done today .                         
+today B-DATE B-DATE
+---------------
+can now take weeks , if ever , to determine .                   
+now B-DATE B-DATE
+weeks B-DURATION O
+---------------
+An hour before her colleagues gathered for their first vote of a new Congress .               
+An B-DURATION B-DURATION
+hour I-DURATION I-DURATION
+---------------
+Ms. Ayotte 's induction that January day in 2011 into the most rarefied ranks of the nation 's political class , female senators , had begun .   
+January B-DURATION B-DATE
+day I-DURATION I-DATE
+2011 B-DATE B-DATE
+---------------
+sworn in for a mere 24 hours .                      
+a B-DURATION B-DURATION
+mere I-DURATION B-DURATION
+24 I-DURATION I-DURATION
+hours I-DURATION I-DURATION
+---------------
+In the 90 years  Rebecca Felton of Georgia became the first woman in the United States Senate -  - women remain an anomaly in the upper chamber .
+the B-DURATION B-DURATION
+90 I-DURATION I-DURATION
+years I-DURATION I-DURATION
+---------------
+But with 20 female senators  they were for much of the 20th century into an important new force on key committees and legislation .     
+of O B-DATE
+the O I-DATE
+20th B-DATE I-DATE
+century I-DATE O
+---------------
+now in office , an all-time high , women have morphed from the curiosity .               
+now B-DATE B-DATE
+---------------
+A record nine women now lead committees , including some of the most powerful ones .              
+now B-DATE B-DATE
+---------------
+dispenses billions of dollars annually throughout the government and has long been particularly dominated by men .             
+annually B-SET B-SET
+long O B-DATE
+---------------
+to pass the Senate last year .                       
+last B-DATE B-DATE
+year I-DATE I-DATE
+---------------
+I first started just six years ago .                      
+six B-DATE B-DATE
+years I-DATE I-DATE
+ago I-DATE I-DATE
+---------------
+the repeal in the Senate of `` do n't ask , do n't tell '' in 2010 , allowing gay men and women to serve openly in the military .
+2010 B-DATE B-DATE
+---------------
+This year , all four of the female Senate Republicans split with their party and voted with Senate Democrats to reauthorize the Violence Against Women Act ,  had lapsed
+This B-DATE B-DATE
+year I-DATE I-DATE
+---------------
+first conquered Everest in 1953 .                        
+1953 B-DATE B-DATE
+---------------
+George Lowe , 89 , died in Ripley on Wednesday after a long-term illness , with his wife Mary by his side .       
+Wednesday B-DATE B-DATE
+---------------
+helped Sir Edmund Hillary and Tenzing Norgay to the summit in 1953 .                 
+1953 B-DATE B-DATE
+---------------
+Mr Lowe also took part in the trans-Antarctic expedition of 1957 - 58 ,  made the first successful overland crossing of Antarctica via the South Pole .  
+1957 B-DATE B-DATE
+58 B-DATE O
+---------------
+We estimated we could do it in 100 days , and we got across on the 99th day .           
+100 B-DURATION B-DURATION
+days I-DURATION I-DURATION
+the B-DATE B-DATE
+99th I-DATE I-DATE
+day I-DATE I-DATE
+---------------
+We estimated we could do it in 100 days .                    
+100 B-DURATION B-DURATION
+days I-DURATION I-DURATION
+---------------
+Speaking to the BBC in 1995 .                       
+1995 B-DATE B-DATE
+---------------
+first met Mr Lowe in 2005 .                       
+2005 B-DATE B-DATE
+---------------
+to be published in May .                        
+May B-DATE B-DATE
+---------------
+Lowe was a brilliant , kind fellow who never sought the limelight ... and 60 years on from Everest his achievements deserve wider recognition .     
+60 B-DURATION B-DURATION
+years I-DURATION I-DURATION
+---------------
+He was involved in two of the most important explorations of the 20th Century ... yet remained a humble , happy man right to the end .   
+the O B-DATE
+20th B-DATE I-DATE
+Century I-DATE I-DATE
+---------------
+retiring in 1984 .                          
+1984 B-DATE B-DATE
+---------------
+The last British climbing member of the 1953 team , Mike Westmacott , died last June .             
+last B-DATE B-DATE
+June I-DATE I-DATE
+---------------
+Google launched this week .                         
+this B-DATE B-DATE
+week I-DATE I-DATE
+---------------
+During his tenure , he has increasingly unleashed biting comedic barbs against his critics and political adversaries .            
+tenure B-DURATION I-DATE
+---------------
+BP agreed to sell back its 50 % stake in TNK-BP to Russia 's Rosneft in October in return for $ 17.1bn in cash and shares .   
+October B-DATE B-DATE
+---------------
+It invested in TNK-BP in 2003 .                       
+2003 B-DATE B-DATE
+---------------
+the share buyback programme could take between 12 and 18 months to complete .                
+12 B-DURATION B-DURATION
+and O I-DURATION
+18 B-DURATION B-DURATION
+months I-DURATION I-DURATION
+---------------
+In 2003 BP invested around $ 8bn in cash , shares and assets in the formation of TNK-BP .           
+2003 B-DATE B-DATE
+---------------
+`` Over the following decade BP received a total of $ 19bn in dividends from the joint venture . '' .         
+the B-DURATION B-DURATION
+following I-DURATION B-DURATION
+decade I-DURATION I-DURATION
+---------------
+In 2011 , the AAR consortium attempted to block a drilling joint venture in the Arctic between BP and Rosneft through the courts and the plan was eventually dropped .
+2011 B-DATE B-DATE
+---------------
+ serving as head of TNK-BP , Bob Dudley - now the head of BP as a whole - had his office bugged and raided by the police and met
+- O B-DATE
+now B-DATE O
+---------------
+He eventually fled the country in 2008 .                      
+2008 B-DURATION B-DATE
+---------------
+In the past , he has always given two conditions for restoring bilateral relations with Israel - an apology and compensation for victims ' families .    
+the B-DATE B-DATE
+past I-DATE I-DATE
+---------------
+it was boarded by Israeli commandos while trying to transport aid supplies to Gaza in May 2010 in spite of an Israeli naval blockade .     
+May B-DATE B-DATE
+2010 I-DATE I-DATE
+---------------
+the troops had opened fire as soon as they boarded the vessel , which was in international waters at the time .        
+at B-DATE O
+the I-DATE B-DATE
+time I-DATE I-DATE
+---------------
+Before departing for Jordan on Friday afternoon , Mr Obama revealed  Mr Netanyahu and Mr Erdogan had just spoken by telephone .       
+Friday B-TIME B-TIME
+afternoon I-TIME I-TIME
+---------------
+A New York man  was accused of  pleaded guilty to a conspiracy charge Thursday , Nassau County District Attorney Kathleen Rice announced .     
+conspiracy O B-DATE
+Thursday B-DATE O
+---------------
+A New York man who was accused of faking his death last summer pleaded guilty to a conspiracy charge Thursday .         
+last B-DATE B-DATE
+summer I-DATE I-DATE
+Thursday B-DATE B-DATE
+---------------
+missing in the waters off Jones Beach late last July by his 22-year-old son , Jonathan Roth .            
+late B-DATE B-DATE
+last I-DATE I-DATE
+July I-DATE I-DATE
+---------------
+Several days into an extensive search involving multiple agencies , New York State Park Police said , authorities learned the missing man was in South Carolina ,  he had
+Several B-DURATION B-DURATION
+days I-DURATION I-DURATION
+---------------
+The day before Raymond Roth was pulled over , his wife , Evana , showed authorities e-mails she had discovered  appeared to detail a plan between him and his
+The B-DATE B-DATE
+day I-DATE I-DATE
+before O I-DATE
+---------------
+State police arrested both men in early August on charges of insurance fraud , conspiracy and filing a false report .         
+early B-DATE B-DATE
+August I-DATE I-DATE
+---------------
+Raymond Roth on Thursday agreed to plead guilty to the conspiracy charge in exchange for a sentence of 90 days in jail and five years ' probation .  
+Thursday B-DATE B-DATE
+90 B-DURATION O
+days I-DURATION O
+five B-DURATION O
+years I-DURATION O
+' I-DURATION O
+---------------
+Evana Roth told CNN in August she thought her husband devised the plan   .              
+August B-DATE B-DATE
+---------------
+he was fired from his job in July .                     
+July B-DATE B-DATE
+---------------
+ , '' Raymond Roth wrote in an e-mail to his son the day  the son reported him missing .         
+the B-DATE O
+day I-DATE B-DATE
+---------------
+Call me Sunday night at 8 PM at the resort .                   
+Sunday B-TIME B-TIME
+night I-TIME I-TIME
+8 B-TIME O
+PM I-TIME O
+---------------
+Raymond Roth 's attorney , Brian Davis , denied in August  Roth had involved his son in the scheme .         
+August B-DATE B-DATE
+---------------
+`` We had issues concerning the facts people had  ( Roth ) had an agreement with his son , '' Davis told CNN on Thursday .   
+Thursday B-DATE B-DATE
+---------------
+it now .                           
+now B-DATE B-DATE
+---------------
+his client has been under treatment for bipolar disorder in recent weeks .                 
+recent B-DURATION B-DURATION
+weeks I-DURATION I-DURATION
+---------------
+inspectors returned to its Moscow offices on Friday , having already seized 600 documents including accounts on Thursday .           
+Friday B-DATE B-DATE
+Thursday B-DATE B-DATE
+---------------
+having already seized 600 documents including accounts on Thursday .                    
+Thursday B-DATE B-DATE
+---------------
+Microsoft Corp. broke sales records in 2010  it released its Kinect - a movement-tracking device  enabled Xbox users to play their favorite games through gestures alone , without
+2010 B-DATE B-DATE
+---------------
+Now , with the help of outside developers , the software giant is hoping to move the Kinect beyond gaming .         
+Now B-DATE B-DATE
+---------------
+In the U.S. , 11 companies were selected last year for the accelerator 's first three-month class in Seattle , out of nearly 500 applicants .    
+last B-DATE B-DATE
+year I-DATE I-DATE
+three-month B-DURATION O
+---------------
+it has identified three companies for the China program to run through June .                
+June B-DATE B-DATE
+---------------
+The Windows-ready Kinect sensor ,  would be necessary for any business  wants to use these potential new technologies , is currently selling for $ 250 through Microsoft ,
+currently B-DATE O
+---------------
+Greece may well have been too big to fail last year .                  
+last B-DATE B-DATE
+year I-DATE I-DATE
+---------------
+required an international bailout in 2010 .                       
+2010 B-DATE B-DATE
+---------------
+referring to the disastrous chain reaction touched off by the collapse of Lehman Brothers in 2008 .             
+2008 B-DATE B-DATE
+---------------
+the president of Cyprus admitted this week that his country did not have the money to backstop the 30 billion euros of guaranteed bank deposits - a figure greater than
+this B-DATE B-DATE
+week I-DATE I-DATE
+---------------
+adopting the euro in 2007 .                        
+2007 B-DATE B-DATE
+---------------
+Israeli Prime Minister Benjamin Netanyahu apologized on Friday to Turkish Prime Minister Recep Tayyip Erdogan for a raid on a Turkish flotilla ship , a move  will help restore
+Friday B-DATE B-DATE
+---------------
+Mr. Erdogan has long sought an apology for the raid in May 2010 on the Mavi Marmara ,  was part of a flotilla  sought to break Israel 's
+May B-DATE B-DATE
+2010 I-DATE I-DATE
+---------------
+he had spoken to both leaders over the past two years about how it was in the interests of both countries to restore normal relations .    
+the B-DURATION B-DURATION
+past I-DURATION I-DURATION
+two I-DURATION I-DURATION
+years I-DURATION I-DURATION
+---------------
+he discussed the issue with Mr. Netanyahu during his visit to Israel this week .               
+this B-DATE B-DATE
+week I-DATE I-DATE
+---------------
+The incident was a subject of talks between Mr. Netanyahu and President Barack Obama during the president 's trip to Israel this week .      
+this B-DATE B-DATE
+week I-DATE I-DATE
+---------------
+President Barack Obama arrived in refugee-flooded Jordan on Friday after  .                  
+Friday B-DATE B-DATE
+---------------
+Prime Minister Benjamin Netanyahu apologized to Turkey for a 2010 commando raid that killed nine activists on a Turkish vessel in a Gaza-bound flotilla .     
+2010 B-DATE B-DATE
+---------------
+It happened in a phone call to Erdogan during a final meeting between Obama and Netanyahu at Ben Gurion International Airport in Tel Aviv minutes  Air Force One departed
+minutes B-DURATION O
+---------------
+It is the first foreign trip of his second term .                   
+second B-DURATION B-DATE
+term I-DURATION I-DATE
+---------------
+Former President Nicolas Sarkozy was informed Thursday  he would face a formal investigation into  he abused the frailty of Liliane Bettencourt , 90 , the heiress to the
+Thursday B-DATE B-DATE
+---------------
+he abused the frailty of Liliane Bettencourt , 90 , the heiress to the L'Oreal fortune and France 's richest woman , to get funds for his 2007 presidential campaign
+2007 B-DATE B-DATE
+---------------
+Mr. Sarkozy , who lost his re-election bid last May and with it his presidential immunity from prosecution , will stand trial .       
+last B-DATE B-DATE
+May I-DATE I-DATE
+---------------
