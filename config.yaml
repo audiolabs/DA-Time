@@ -1,0 +1,50 @@
+lang: en #system language
+
+train:
+ data: pate  #model train/test data (More on dataset_mapping.py)
+ simplify: False  #Simplified model data for training
+ embedding: en  #Recognizer model embedding
+ max_len: 30  #Max. length neural model can accept (50, or 30 for simplified)
+ batch_size: 32  #Batch size for the neural model
+ epochs: 30  #Training epochs
+ BERT_dim: 3072  #DistillBERT dimensions
+ lstm_units: 256  # LSTM units
+ dense_unit: 50  #Dense layer units
+ optimizer: adam  #Model default optimizer
+ activation: relu  #Dense layer activation
+ patience: 5  #Early stopping patience
+ dropout: 0.5  #Dropout for RNN
+ recurrent_dropout: 0.5  #Recurrent dropout for RNN-LSTM
+ validation_split: 0.1  #Split ratio for train/valid set
+ run: 8  #Number of run for the current config
+ amount: 10  #Amount of fine-tuning data (1 ~ 10) -> (10 ~ 100%)
+
+fine_tune:
+ epochs: 20  #Fine-tuning epochs
+ lr: 0.0001  #Learning rate for fine-tuning each layer
+ method: chain  #fine-tuning default method
+
+predict:
+ final_model_en: model/predict/en/fine_tuned_model.h5  #Final fine-tuned saved model for English
+
+directories:
+ data: data/  #Default data directory
+ source_model: model/best_model  #Source model prefix directories
+ fine_tuned_model: model/fine_tuned_model  #fine-tuned model prefix directories
+ tag_index: model/idx.pickle  #label index directories
+ unit_index: model/new_unit.pickle  #unit index directories
+ saved_output: output/predicted_output  #neural model output directories
+ saved_score_en: output/results_en.csv  #Score directories English
+ input_modified_for_simplify: data/TBAQ_Simplified/input_modified_train.pickle  #Modified English path for simplification
+ input_simplified: data/TBAQ_Simplified/input_simplified.pickle  #Simplified english input path
+ timex_for_simplify: data/TBAQ_Simplified/output_train.pickle  #Simplified english output path
+ timex_predict_output: output/timex_output.json  #Timex output for model prediction
+
+ external:
+  corenlp_ap: http://localhost:9000  #Corenlp endpoint
+
+normalizer:
+ domain_identifier: 1 #Domain specifier value 1 for VA, 0 for news 
+
+debugging:
+  log_level: logging.WARNING #Logging level for debugging
