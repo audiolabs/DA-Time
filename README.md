@@ -2,6 +2,19 @@
 
 a domain-adapted temporal expression recognizer for the English Voice Assistant domain
 
+### Citing DA-Time
+
+To refer to DA-Time in any publication, please cite the following paper: 
+
+Alam, T., Zarcone, A., & Padó, S. (2021). New Domain, Major Effort? How Much Data is Necessary to Adapt a Temporal Tagger To the Voice Assistant Domain. In Proceedings of the 14th International Conference on Computational Semantics (IWCS 2021).
+
+    @inproceedings{alam2021:new,
+        author       = {Touhidul Alam and Alessandra Zarcone and Sebastian Pad\'{o}},
+        title        = {{New Domain, Major Effort? How Much Data is Necessary to Adapt a Temporal Tagger To the Voice Assistant Domain}},
+        year         = 2021,
+        booktitle    = {{Proceedings of the 14th International Conference on Computational Semantics (IWCS 2021)}}
+        }
+
 ### Getting Started
 
 #### Installation Guide
